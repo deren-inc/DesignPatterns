@@ -26,7 +26,7 @@ namespace Patterns.Singleton
     }
 
 
-    class SingetonPattern
+    class SingletonPattern
     {
         public static void Test()
         {
