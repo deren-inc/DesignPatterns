@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * Alternative way to inheritance but more flexible
+ */
+
 namespace Patterns.Decorator
 {
     interface Component

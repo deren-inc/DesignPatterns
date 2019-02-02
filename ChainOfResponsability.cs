@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* 
+ * Object version of switch-case instruction 
+ */
+
 namespace Patterns.ChainOfResponsability
 {
     enum RequestType

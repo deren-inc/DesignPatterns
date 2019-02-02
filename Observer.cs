@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* 
+ * Model of Publisher-Subscriber
+ */
+
 namespace Patterns.Observer
 {
     interface Observer
